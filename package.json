@@ -1,0 +1,17 @@
+{
+  "name": "freddy-api",
+  "version": "1.0.0",
+  "description": "Freddy API ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Freddy Mejia",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
